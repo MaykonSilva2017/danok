@@ -1,0 +1,38 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background: #f0e7e7;
+    
+}
+
+
+
+
+.header-menu{
+    display: flex;
+    gap: 10px;
+    justify-content: right;
+    text-transform: uppercase;
+    margin-right: 20px;
+    font-weight: bold;
+   
+     
+}
+
+.header-menu li{
+    list-style: none;
+     
+    
+}
+
+.header-menu li a{
+    text-decoration: none;
+    justify-content: right;
+    color: black;
+    
+    
+}
+
